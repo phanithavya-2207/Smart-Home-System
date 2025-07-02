@@ -64,7 +64,7 @@ This project implements a Smart Home System using the STM32F4 microcontroller, i
 
 ## 🖼️ Circuit Diagram
 
-![Smart Home Circuit Diagram](assets/smart_home_circuit.png)
+![Smart Home Circuit Diagram](smart_home_circuit.png)
 
 ---
 
