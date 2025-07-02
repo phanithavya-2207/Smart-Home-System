@@ -75,3 +75,5 @@ This project implements a Smart Home System using the STM32F4 microcontroller, i
 - Real-time data-driven decision-making in microcontrollers
 
 ---
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
