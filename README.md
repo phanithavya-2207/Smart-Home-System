@@ -23,7 +23,6 @@ This project implements a Smart Home System using the STM32F4 microcontroller, i
 |--------------------------------|--------------------------------------------------------|
 | STM32F4xx Microcontroller       | Sensor interfacing and control logic (ARM Cortex-M4)   |
 | PIR Motion Sensor               | Detects motion based on infrared heat                  |
-| HC-SR04 Ultrasonic Sensor       | (Optional) Distance detection                          |
 | LDR (Light Dependent Resistor) | Detects ambient light with voltage divider             |
 | DHT11 Temperature Sensor        | Monitors environmental temperature                     |
 | Push Button                     | User-triggered events or resets                        |
